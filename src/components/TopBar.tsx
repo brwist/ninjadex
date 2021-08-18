@@ -159,7 +159,7 @@ export default function TopBar() {
         onAddCustomEndpoint={onAddCustomEndpoint}
         onClose={() => setAddEndpointVisible(false)}
       />
-      <Rows gutter={[0, 6]}>
+      <Rows gutter={[0, 3]}>
         <Col xl={4} lg={5} md={6} sm={8} xs={24}>
           <LogoWrapper onClick={() => history.push(tradePageUrl)}>
             <img src={logo} alt="" />
