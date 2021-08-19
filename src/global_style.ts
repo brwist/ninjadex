@@ -277,26 +277,22 @@ box-shadow: 0px 0px 14px 2px #851CEF;
 }
 
 .sIzqv,.iDhzRL{
-    margin: 20px 0px 0px;
     background: #0EE9A7;
     border-color: #0EE9A7;
     border-radius: 6px;
 }
 .dVaoRV,.hSaKRS{
-    margin: 20px 0px 0px;
     background: #FF4747;
     border-color: #FF4747;
     border-radius: 6px;
 }
 
 .sIzqv:hover,.iDhzRL:hover{
-    margin: 20px 0px 0px;
     background: #1c795d;
     border-color: #1c795d;
     border-radius: 6px;
 }
 .dVaoRV:hover,.hSaKRS:hover{
-    margin: 20px 0px 0px;
     background: #841d1d;
     border-color: #841d1d;
     border-radius: 6px;
